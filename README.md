@@ -4,6 +4,14 @@ A full-stack application built with **Next.js** that allows users to check if a 
 
 ---
 
+---
+
+## 🔗 Live Demo
+
+🧭 Check it out here: [https://shiv-navigator.vercel.app](https://shiv-navigator.vercel.app)
+
+---
+
 ## 🚀 Features
 
 - 🔍 **Visa Checker**: Find out if a visa is required between two countries.
