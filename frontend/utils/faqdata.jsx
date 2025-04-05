@@ -20,4 +20,4 @@ export const devFAQContent = new Map();
 devFAQContent.set("Is Navigator open source?","Yes, Navigator is an open source platform that's built from a community of those interested in travel.")
 devFAQContent.set("What is open source?", "Open source means that anyone can contribute to Navigator. However, contributions must be approved by the Navigator developer team.")
 devFAQContent.set("What tech stack is Navigator developed in?","Navigator is developed using Next.js, JavaScript, and TailwindCSS.")
-devFAQContent.set("Where can I contribute?", <p>You can make contributions to Navigator on our GitHub repository <Link href="https://github.com/tachorzy/Gibraltr" className={"underline font-semibold"}>here</Link>.</p>)
+devFAQContent.set("Where can I contribute?", <p>You can make contributions to Navigator on our GitHub repository <Link href="https://github.com/KeshriShiva/Navigator" className={"underline font-semibold"}>here</Link>.</p>)

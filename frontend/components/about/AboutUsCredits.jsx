@@ -59,7 +59,7 @@ const AboutUsCredits = () => {
                 </div>
             </div>
         <h4 className={supremeBold.className + " text-stone-700 text-4xl mt-14 mb-3.5 font-bold"}>An Open Source Solution for Visas</h4>
-        <p className={supremeMedium.className + " w-[90%] md:w-1/2 text-lg text-stone-700 leading-relaxed mb-32"}>{"Open source means transperancy. You can trust our search engine because all the gears that power Navigator are in plain sight. Additionally, open source means zero paywalls. We want to directly connect you with the official e-Visa portals of your destinations. Not a single search on Navigator will lead you to a corporate payment plan. And lastly, open source means community. You are involved in the development of Navigator. We want you to be free to access, contribute and provide feedback to our development on "}<Link href="https://github.com/tachorzy/Gibraltr" className={"underline font-semibold "}>GitHub</Link>.</p>
+        <p className={supremeMedium.className + " w-[90%] md:w-1/2 text-lg text-stone-700 leading-relaxed mb-32"}>{"Open source means transperancy. You can trust our search engine because all the gears that power Navigator are in plain sight. Additionally, open source means zero paywalls. We want to directly connect you with the official e-Visa portals of your destinations. Not a single search on Navigator will lead you to a corporate payment plan. And lastly, open source means community. You are involved in the development of Navigator. We want you to be free to access, contribute and provide feedback to our development on "}<Link href="https://github.com/KeshriShiva/Navigator" className={"underline font-semibold "}>GitHub</Link>.</p>
     </div>
     );
 }
